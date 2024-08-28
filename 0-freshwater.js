@@ -1,3 +1,5 @@
+alert('fw loaded');
+
 var $0 = $.noConflict();
 
 $0(document).ready(function() {
